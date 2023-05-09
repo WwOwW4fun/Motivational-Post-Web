@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    font-weight : bold;
+    font-family: 'Caveat', cursive;
+}
+h1{
+    color : gold;
+    font-size :350%;
+    text-transform : uppercase;
+    margin-bottom : -5%;
+}
+p{
+    color : orange;
+    font-size : 350%;
+}
+#fi{
+  width: 50%;
+  margin-top : 40px;
+  margin-left : 25%;
+  text-align : center;
+}
+img{
+    width : 90%;
+    border : 5px solid white;
+}
